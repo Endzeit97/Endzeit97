@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Endzeit97
 - 👀 I’m interested in Swift programming, now working almost 6 years in car parts
-- 🌱 I’m currently learning Swit
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me labynka@gmail.com
 
